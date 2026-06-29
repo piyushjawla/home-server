@@ -1,4 +1,4 @@
-<img width="4032" height="3024" alt="IMG_0793" src="https://github.com/user-attachments/assets/6644c17f-85a1-4b6d-9528-2cd413b85687" /># home-server
+# home-server
 This is my home server creation journey, turning an unused piece of hardware into a server which can run multiple VMs, file-hosting service like Nextcloud, media/audio server like Jellyfin, and lots of cool projects that come to my mind.
 
 # Bare Metal Proxmox Homelab Server Setup
